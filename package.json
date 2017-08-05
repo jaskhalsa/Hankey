@@ -1,0 +1,25 @@
+{
+  "name": "hankey",
+  "version": "1.0.0",
+  "description": "messenger bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaskhalsa/Hankey.git"
+  },
+  "author": "Jasmeet Khalsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaskhalsa/Hankey/issues"
+  },
+  "homepage": "https://github.com/jaskhalsa/Hankey#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.5",
+    "request": "^2.81.0"
+  }
+}
