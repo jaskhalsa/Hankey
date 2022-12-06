@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/jaskhalsa/Hankey#readme",
   "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mongoose": "^4.11.5",
     "request": "^2.81.0"
   }
