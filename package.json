@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jaskhalsa/Hankey#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "mongoose": "^4.11.5",
     "request": "^2.81.0"
   }
